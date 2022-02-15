@@ -1,2 +1,5 @@
 # Information-Theory
-Some problems form Theory of Information field explained.
+Binary source prints only 1 and 0.
+Input : binary source message
+Algorithm : Huffman coding
+Output : compressed message and measure of entropy
